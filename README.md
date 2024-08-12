@@ -30,7 +30,7 @@ Thank You for taking the time to view my GitHub Profile.
 <p align="center">
      <a href="https://wa.me/0989932925960"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="110" height="55" /></a>
      <a href="mailto:alishi.dev@gmail.com"><img alt="Me"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"   width="90" height="45" /></a>
-  <a href="https://www.linkedin.com/in/ali-sheykhi-7ba776181/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="90" height="45" /></a>
+  <a href="https://www.linkedin.com/in/sheykhi-ali/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="90" height="45" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
